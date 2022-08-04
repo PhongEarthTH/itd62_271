@@ -1,4 +1,6 @@
 <?php
-echo "Hello PHONGNAPHAT CHUCHUAI";
-echo "ID : 64109010";
+$name = "PHONGNAPHAT CHUCHUAI";
+$sid = "64109010";
+echo "Hello ".$name;
+echo "ID : ".$sid;
 ?>
